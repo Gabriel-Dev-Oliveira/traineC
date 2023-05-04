@@ -1,2 +1,2 @@
 # traineC
-first project in C
+Projetos para treino da linguagem C
